@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  TSViewController.h
 //  Test FRC Core Data
 //
 //  Created by Mac on 17.02.16.
@@ -7,14 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TSDataManager.h"
 #import <CoreData/CoreData.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
 
-@property (strong, nonatomic) UIWindow *window;
-
+@interface TSViewController : UIViewController
 
 
+
+- (IBAction)actionSave:(id)sender;
 
 @end
-

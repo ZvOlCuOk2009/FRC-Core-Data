@@ -1,18 +1,15 @@
 //
-//  ViewController.h
+//  TSStudent.m
 //  Test FRC Core Data
 //
 //  Created by Mac on 17.02.16.
 //  Copyright © 2016 Tsvigun Alexandr. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 #import "TSStudent.h"
 
+@implementation TSStudent
 
-@interface ViewController : UIViewController
-    
-@property (strong, nonatomic) TSStudent *student;
+// Insert code here to add functionality to your managed object subclass
 
 @end
-

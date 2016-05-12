@@ -7,6 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD217C911CE507CD00E34750 /* 10.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C7D1CE507CD00E34750 /* 10.PNG */; };
+		FD217C921CE507CD00E34750 /* 11.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C7E1CE507CD00E34750 /* 11.PNG */; };
+		FD217C931CE507CD00E34750 /* 110.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C7F1CE507CD00E34750 /* 110.PNG */; };
+		FD217C941CE507CD00E34750 /* 111.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C801CE507CD00E34750 /* 111.PNG */; };
+		FD217C951CE507CD00E34750 /* 112.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C811CE507CD00E34750 /* 112.PNG */; };
+		FD217C961CE507CD00E34750 /* 113.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C821CE507CD00E34750 /* 113.PNG */; };
+		FD217C971CE507CD00E34750 /* 114.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C831CE507CD00E34750 /* 114.PNG */; };
+		FD217C981CE507CD00E34750 /* 115.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C841CE507CD00E34750 /* 115.PNG */; };
+		FD217C991CE507CD00E34750 /* 116.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C851CE507CD00E34750 /* 116.PNG */; };
+		FD217C9A1CE507CD00E34750 /* 117.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C861CE507CD00E34750 /* 117.PNG */; };
+		FD217C9B1CE507CD00E34750 /* 118.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C871CE507CD00E34750 /* 118.PNG */; };
+		FD217C9C1CE507CD00E34750 /* 119.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C881CE507CD00E34750 /* 119.PNG */; };
+		FD217C9D1CE507CD00E34750 /* 12.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C891CE507CD00E34750 /* 12.PNG */; };
+		FD217C9E1CE507CD00E34750 /* 13.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C8A1CE507CD00E34750 /* 13.PNG */; };
+		FD217C9F1CE507CD00E34750 /* 14.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C8B1CE507CD00E34750 /* 14.PNG */; };
+		FD217CA01CE507CD00E34750 /* 15.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C8C1CE507CD00E34750 /* 15.PNG */; };
+		FD217CA11CE507CD00E34750 /* 16.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C8D1CE507CD00E34750 /* 16.PNG */; };
+		FD217CA21CE507CD00E34750 /* 17.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C8E1CE507CD00E34750 /* 17.PNG */; };
+		FD217CA31CE507CD00E34750 /* 18.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C8F1CE507CD00E34750 /* 18.PNG */; };
+		FD217CA41CE507CD00E34750 /* 19.PNG in Resources */ = {isa = PBXBuildFile; fileRef = FD217C901CE507CD00E34750 /* 19.PNG */; };
+		FD50E8801C7E410E00DD2C3E /* TSStudent+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = FD50E87F1C7E410E00DD2C3E /* TSStudent+CoreDataProperties.m */; };
+		FD50E8891C7E5FF100DD2C3E /* TSStudentTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FD50E8881C7E5FF100DD2C3E /* TSStudentTableViewCell.m */; };
+		FD50E88C1C7E660500DD2C3E /* TSTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD50E88B1C7E660500DD2C3E /* TSTableViewController.m */; };
 		FD9045451C74DB2D0096608A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FD9045441C74DB2D0096608A /* main.m */; };
 		FD9045481C74DB2D0096608A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FD9045471C74DB2D0096608A /* AppDelegate.m */; };
 		FD90454B1C74DB2D0096608A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD90454A1C74DB2D0096608A /* ViewController.m */; };
@@ -16,6 +39,12 @@
 		FD9045561C74DB2E0096608A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD9045541C74DB2E0096608A /* LaunchScreen.storyboard */; };
 		FD9045611C74DB2E0096608A /* Test_FRC_Core_DataTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FD9045601C74DB2E0096608A /* Test_FRC_Core_DataTests.m */; };
 		FD90456C1C74DB2E0096608A /* Test_FRC_Core_DataUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FD90456B1C74DB2E0096608A /* Test_FRC_Core_DataUITests.m */; };
+		FD90457B1C74DC830096608A /* TSDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FD90457A1C74DC830096608A /* TSDataManager.m */; };
+		FD9045811C74DF020096608A /* TSStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = FD90457F1C74DF020096608A /* TSStudent.m */; };
+		FD90458B1C75198D0096608A /* TSTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FD90458A1C75198D0096608A /* TSTableViewCell.m */; };
+		FDE3D31B1C7FB609000FB32B /* TSCourse+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE3D3161C7FB609000FB32B /* TSCourse+CoreDataProperties.m */; };
+		FDE3D31C1C7FB609000FB32B /* TSCourse.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE3D3181C7FB609000FB32B /* TSCourse.m */; };
+		FDE3D3201C7FB6A1000FB32B /* TSCoursesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE3D31F1C7FB6A1000FB32B /* TSCoursesViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,12 +65,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FD217C7D1CE507CD00E34750 /* 10.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.PNG; sourceTree = "<group>"; };
+		FD217C7E1CE507CD00E34750 /* 11.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.PNG; sourceTree = "<group>"; };
+		FD217C7F1CE507CD00E34750 /* 110.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 110.PNG; sourceTree = "<group>"; };
+		FD217C801CE507CD00E34750 /* 111.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 111.PNG; sourceTree = "<group>"; };
+		FD217C811CE507CD00E34750 /* 112.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 112.PNG; sourceTree = "<group>"; };
+		FD217C821CE507CD00E34750 /* 113.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 113.PNG; sourceTree = "<group>"; };
+		FD217C831CE507CD00E34750 /* 114.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114.PNG; sourceTree = "<group>"; };
+		FD217C841CE507CD00E34750 /* 115.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 115.PNG; sourceTree = "<group>"; };
+		FD217C851CE507CD00E34750 /* 116.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 116.PNG; sourceTree = "<group>"; };
+		FD217C861CE507CD00E34750 /* 117.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 117.PNG; sourceTree = "<group>"; };
+		FD217C871CE507CD00E34750 /* 118.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 118.PNG; sourceTree = "<group>"; };
+		FD217C881CE507CD00E34750 /* 119.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 119.PNG; sourceTree = "<group>"; };
+		FD217C891CE507CD00E34750 /* 12.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.PNG; sourceTree = "<group>"; };
+		FD217C8A1CE507CD00E34750 /* 13.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13.PNG; sourceTree = "<group>"; };
+		FD217C8B1CE507CD00E34750 /* 14.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.PNG; sourceTree = "<group>"; };
+		FD217C8C1CE507CD00E34750 /* 15.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15.PNG; sourceTree = "<group>"; };
+		FD217C8D1CE507CD00E34750 /* 16.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.PNG; sourceTree = "<group>"; };
+		FD217C8E1CE507CD00E34750 /* 17.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 17.PNG; sourceTree = "<group>"; };
+		FD217C8F1CE507CD00E34750 /* 18.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 18.PNG; sourceTree = "<group>"; };
+		FD217C901CE507CD00E34750 /* 19.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 19.PNG; sourceTree = "<group>"; };
+		FD50E87E1C7E410E00DD2C3E /* TSStudent+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TSStudent+CoreDataProperties.h"; path = "Test FRC Core Data/TSStudent+CoreDataProperties.h"; sourceTree = "<group>"; };
+		FD50E87F1C7E410E00DD2C3E /* TSStudent+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TSStudent+CoreDataProperties.m"; path = "Test FRC Core Data/TSStudent+CoreDataProperties.m"; sourceTree = "<group>"; };
+		FD50E8871C7E5FF100DD2C3E /* TSStudentTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSStudentTableViewCell.h; sourceTree = "<group>"; };
+		FD50E8881C7E5FF100DD2C3E /* TSStudentTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSStudentTableViewCell.m; sourceTree = "<group>"; };
+		FD50E88A1C7E660500DD2C3E /* TSTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSTableViewController.h; sourceTree = "<group>"; };
+		FD50E88B1C7E660500DD2C3E /* TSTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSTableViewController.m; sourceTree = "<group>"; };
 		FD9045401C74DB2D0096608A /* Test FRC Core Data.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Test FRC Core Data.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD9045441C74DB2D0096608A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		FD9045461C74DB2D0096608A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FD9045471C74DB2D0096608A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		FD9045491C74DB2D0096608A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		FD90454A1C74DB2D0096608A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FD90454A1C74DB2D0096608A /* ViewController.m */ = {isa = PBXFileReference; indentWidth = 5; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		FD90454D1C74DB2D0096608A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FD9045501C74DB2D0096608A /* Test_FRC_Core_Data.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Test_FRC_Core_Data.xcdatamodel; sourceTree = "<group>"; };
 		FD9045521C74DB2E0096608A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -53,6 +108,18 @@
 		FD9045671C74DB2E0096608A /* Test FRC Core DataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Test FRC Core DataUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD90456B1C74DB2E0096608A /* Test_FRC_Core_DataUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test_FRC_Core_DataUITests.m; sourceTree = "<group>"; };
 		FD90456D1C74DB2E0096608A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD9045791C74DC830096608A /* TSDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSDataManager.h; sourceTree = "<group>"; };
+		FD90457A1C74DC830096608A /* TSDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSDataManager.m; sourceTree = "<group>"; };
+		FD90457E1C74DF020096608A /* TSStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TSStudent.h; path = "Test FRC Core Data/TSStudent.h"; sourceTree = "<group>"; };
+		FD90457F1C74DF020096608A /* TSStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TSStudent.m; path = "Test FRC Core Data/TSStudent.m"; sourceTree = "<group>"; };
+		FD9045891C75198D0096608A /* TSTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSTableViewCell.h; sourceTree = "<group>"; };
+		FD90458A1C75198D0096608A /* TSTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSTableViewCell.m; sourceTree = "<group>"; };
+		FDE3D3151C7FB609000FB32B /* TSCourse+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TSCourse+CoreDataProperties.h"; path = "Test FRC Core Data/TSCourse+CoreDataProperties.h"; sourceTree = "<group>"; };
+		FDE3D3161C7FB609000FB32B /* TSCourse+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TSCourse+CoreDataProperties.m"; path = "Test FRC Core Data/TSCourse+CoreDataProperties.m"; sourceTree = "<group>"; };
+		FDE3D3171C7FB609000FB32B /* TSCourse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TSCourse.h; path = "Test FRC Core Data/TSCourse.h"; sourceTree = "<group>"; };
+		FDE3D3181C7FB609000FB32B /* TSCourse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TSCourse.m; path = "Test FRC Core Data/TSCourse.m"; sourceTree = "<group>"; };
+		FDE3D31E1C7FB6A1000FB32B /* TSCoursesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TSCoursesViewController.h; path = ../TSCoursesViewController.h; sourceTree = "<group>"; };
+		FDE3D31F1C7FB6A1000FB32B /* TSCoursesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TSCoursesViewController.m; path = ../TSCoursesViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,9 +147,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FD217C7C1CE507CD00E34750 /* Folder */ = {
+			isa = PBXGroup;
+			children = (
+				FD217C7D1CE507CD00E34750 /* 10.PNG */,
+				FD217C7E1CE507CD00E34750 /* 11.PNG */,
+				FD217C7F1CE507CD00E34750 /* 110.PNG */,
+				FD217C801CE507CD00E34750 /* 111.PNG */,
+				FD217C811CE507CD00E34750 /* 112.PNG */,
+				FD217C821CE507CD00E34750 /* 113.PNG */,
+				FD217C831CE507CD00E34750 /* 114.PNG */,
+				FD217C841CE507CD00E34750 /* 115.PNG */,
+				FD217C851CE507CD00E34750 /* 116.PNG */,
+				FD217C861CE507CD00E34750 /* 117.PNG */,
+				FD217C871CE507CD00E34750 /* 118.PNG */,
+				FD217C881CE507CD00E34750 /* 119.PNG */,
+				FD217C891CE507CD00E34750 /* 12.PNG */,
+				FD217C8A1CE507CD00E34750 /* 13.PNG */,
+				FD217C8B1CE507CD00E34750 /* 14.PNG */,
+				FD217C8C1CE507CD00E34750 /* 15.PNG */,
+				FD217C8D1CE507CD00E34750 /* 16.PNG */,
+				FD217C8E1CE507CD00E34750 /* 17.PNG */,
+				FD217C8F1CE507CD00E34750 /* 18.PNG */,
+				FD217C901CE507CD00E34750 /* 19.PNG */,
+			);
+			path = Folder;
+			sourceTree = "<group>";
+		};
 		FD9045371C74DB2C0096608A = {
 			isa = PBXGroup;
 			children = (
+				FD9045821C74DF0B0096608A /* Core Data Models */,
 				FD9045421C74DB2D0096608A /* Test FRC Core Data */,
 				FD90455F1C74DB2E0096608A /* Test FRC Core DataTests */,
 				FD90456A1C74DB2E0096608A /* Test FRC Core DataUITests */,
@@ -107,11 +202,22 @@
 				FD9045471C74DB2D0096608A /* AppDelegate.m */,
 				FD9045491C74DB2D0096608A /* ViewController.h */,
 				FD90454A1C74DB2D0096608A /* ViewController.m */,
+				FD50E88A1C7E660500DD2C3E /* TSTableViewController.h */,
+				FD50E88B1C7E660500DD2C3E /* TSTableViewController.m */,
+				FDE3D31E1C7FB6A1000FB32B /* TSCoursesViewController.h */,
+				FDE3D31F1C7FB6A1000FB32B /* TSCoursesViewController.m */,
+				FD9045891C75198D0096608A /* TSTableViewCell.h */,
+				FD90458A1C75198D0096608A /* TSTableViewCell.m */,
+				FD50E8871C7E5FF100DD2C3E /* TSStudentTableViewCell.h */,
+				FD50E8881C7E5FF100DD2C3E /* TSStudentTableViewCell.m */,
+				FD9045791C74DC830096608A /* TSDataManager.h */,
+				FD90457A1C74DC830096608A /* TSDataManager.m */,
 				FD90454C1C74DB2D0096608A /* Main.storyboard */,
 				FD9045521C74DB2E0096608A /* Assets.xcassets */,
 				FD9045541C74DB2E0096608A /* LaunchScreen.storyboard */,
 				FD9045571C74DB2E0096608A /* Info.plist */,
 				FD90454F1C74DB2D0096608A /* Test_FRC_Core_Data.xcdatamodeld */,
+				FD217C7C1CE507CD00E34750 /* Folder */,
 				FD9045431C74DB2D0096608A /* Supporting Files */,
 			);
 			path = "Test FRC Core Data";
@@ -141,6 +247,21 @@
 				FD90456D1C74DB2E0096608A /* Info.plist */,
 			);
 			path = "Test FRC Core DataUITests";
+			sourceTree = "<group>";
+		};
+		FD9045821C74DF0B0096608A /* Core Data Models */ = {
+			isa = PBXGroup;
+			children = (
+				FD90457E1C74DF020096608A /* TSStudent.h */,
+				FD90457F1C74DF020096608A /* TSStudent.m */,
+				FD50E87E1C7E410E00DD2C3E /* TSStudent+CoreDataProperties.h */,
+				FD50E87F1C7E410E00DD2C3E /* TSStudent+CoreDataProperties.m */,
+				FDE3D3151C7FB609000FB32B /* TSCourse+CoreDataProperties.h */,
+				FDE3D3161C7FB609000FB32B /* TSCourse+CoreDataProperties.m */,
+				FDE3D3171C7FB609000FB32B /* TSCourse.h */,
+				FDE3D3181C7FB609000FB32B /* TSCourse.m */,
+			);
+			name = "Core Data Models";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -205,6 +326,7 @@
 		FD9045381C74DB2C0096608A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = TS;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Tsvigun Alexandr";
 				TargetAttributes = {
@@ -249,9 +371,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD217CA11CE507CD00E34750 /* 16.PNG in Resources */,
+				FD217CA41CE507CD00E34750 /* 19.PNG in Resources */,
+				FD217C9B1CE507CD00E34750 /* 118.PNG in Resources */,
+				FD217CA31CE507CD00E34750 /* 18.PNG in Resources */,
+				FD217C961CE507CD00E34750 /* 113.PNG in Resources */,
+				FD217C941CE507CD00E34750 /* 111.PNG in Resources */,
+				FD217C931CE507CD00E34750 /* 110.PNG in Resources */,
+				FD217C921CE507CD00E34750 /* 11.PNG in Resources */,
+				FD217C9E1CE507CD00E34750 /* 13.PNG in Resources */,
+				FD217C9F1CE507CD00E34750 /* 14.PNG in Resources */,
+				FD217C971CE507CD00E34750 /* 114.PNG in Resources */,
 				FD9045561C74DB2E0096608A /* LaunchScreen.storyboard in Resources */,
+				FD217C991CE507CD00E34750 /* 116.PNG in Resources */,
+				FD217C981CE507CD00E34750 /* 115.PNG in Resources */,
+				FD217CA21CE507CD00E34750 /* 17.PNG in Resources */,
+				FD217C9C1CE507CD00E34750 /* 119.PNG in Resources */,
 				FD9045531C74DB2E0096608A /* Assets.xcassets in Resources */,
+				FD217C911CE507CD00E34750 /* 10.PNG in Resources */,
+				FD217C9D1CE507CD00E34750 /* 12.PNG in Resources */,
+				FD217C951CE507CD00E34750 /* 112.PNG in Resources */,
 				FD90454E1C74DB2D0096608A /* Main.storyboard in Resources */,
+				FD217C9A1CE507CD00E34750 /* 117.PNG in Resources */,
+				FD217CA01CE507CD00E34750 /* 15.PNG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,10 +418,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD50E88C1C7E660500DD2C3E /* TSTableViewController.m in Sources */,
+				FD50E8891C7E5FF100DD2C3E /* TSStudentTableViewCell.m in Sources */,
+				FDE3D31C1C7FB609000FB32B /* TSCourse.m in Sources */,
+				FD90457B1C74DC830096608A /* TSDataManager.m in Sources */,
+				FDE3D31B1C7FB609000FB32B /* TSCourse+CoreDataProperties.m in Sources */,
 				FD90454B1C74DB2D0096608A /* ViewController.m in Sources */,
 				FD9045481C74DB2D0096608A /* AppDelegate.m in Sources */,
+				FD90458B1C75198D0096608A /* TSTableViewCell.m in Sources */,
 				FD9045511C74DB2D0096608A /* Test_FRC_Core_Data.xcdatamodeld in Sources */,
+				FDE3D3201C7FB6A1000FB32B /* TSCoursesViewController.m in Sources */,
+				FD50E8801C7E410E00DD2C3E /* TSStudent+CoreDataProperties.m in Sources */,
 				FD9045451C74DB2D0096608A /* main.m in Sources */,
+				FD9045811C74DF020096608A /* TSStudent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +656,7 @@
 				FD9045721C74DB2E0096608A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD9045731C74DB2E0096608A /* Build configuration list for PBXNativeTarget "Test FRC Core DataTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +665,7 @@
 				FD9045751C74DB2E0096608A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD9045761C74DB2E0096608A /* Build configuration list for PBXNativeTarget "Test FRC Core DataUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +674,7 @@
 				FD9045781C74DB2E0096608A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
